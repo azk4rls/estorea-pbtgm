@@ -1,5 +1,5 @@
 # 🛍️ e-storea
-
+//tugas
 > **e-storea** adalah proyek *starter template* e-commerce modern yang dirancang untuk performa tinggi, keamanan optimal, dan pengalaman pengembang (*developer experience*) yang luar biasa. Dibangun menggunakan teknologi web termutakhir seperti **Next.js**, **React 19**, **Tailwind CSS v4**, **TypeScript**, dan **NextAuth.js v5**.
 
 ---
@@ -81,7 +81,7 @@ Buat berkas bernama **`.env.local`** pada direktori utama proyek, lalu tambahkan
 
 ```env
 # Kunci enkripsi untuk token sesi NextAuth (Anda dapat membuat kunci acak baru)
-AUTH_SECRET=52fa627e7561b6816a30bc0a6b5b9c03fa2dae28337cc7f6e6ae4a3927a23706
+AUTH_SECRET=ets jangan dispill
 
 # Konfigurasi Google OAuth Credentials (dapatkan dari Google Cloud Console)
 AUTH_GOOGLE_ID=xxx
