@@ -1,4 +1,4 @@
-# 🛍️ e-storea
+# 🛍️ e-storea STORE
 
 > **e-storea** adalah proyek *starter template* e-commerce modern yang dirancang untuk performa tinggi, keamanan optimal, dan pengalaman pengembang (*developer experience*) yang luar biasa. Dibangun menggunakan teknologi web termutakhir seperti **Next.js**, **React 19**, **Tailwind CSS v4**, **TypeScript**, dan **NextAuth.js v5**.
 
