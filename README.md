@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Teknologi Utama
+## 🚀 Teknologi Utama!
 
 Proyek ini memanfaatkan keunggulan ekosistem React modern untuk menghadirkan aplikasi web berstandar industri:
 
