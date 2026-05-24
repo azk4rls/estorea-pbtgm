@@ -88,8 +88,6 @@ AUTH_GOOGLE_ID=xxx
 AUTH_GOOGLE_SECRET=xxx
 ```
 
-> 💡 **Tips Keamanan?**: Jangan pernah membagikan berkas `.env.local` Anda ke GitHub atau layanan hosting publik lainnya.
-
 ### 4. Jalankan Server Pengembangan
 Untuk mulai menjalankan proyek dalam mode pengembangan lokal (*local development*):
 
